@@ -33,5 +33,5 @@ info.setLife(5)
 game.onUpdateInterval(1000, function () {
     Voldemort = sprites.create(assets.image`Voldemort`, SpriteKind.Enemy)
     Voldemort.setPosition(140, randint(0, 120))
-    Voldemort.setVelocity(-90, 0)
+    Voldemort.setVelocity(-1 * info.score() + -90, 0)
 })
