@@ -9,15 +9,15 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Projectile"
     },
-    "image4": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAADgAAAAAAAADgAAAAAAAAAAAOAAAAAAAAABAAAAAAABEAAPEAAAAQEQEA/w8AABEvEfD///8PEfERwf////8RETHBzPz//xHxEcH/////ES8R8P////8QEQEA///w/wARAADwAQD/AAAAAAABAPAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "Voldemort"
-    },
     "image1": {
         "data": "hwQQABAAAAAAAAAAAAQEBAAAAAAAREQEAAAAAABERAQAAAAAAEBOAAAAAAAAAA4AAP/fAAAADQDw/80N8N8NAv///NwiUlLi///L21VSUu//383dIv//D///y9tV///v///83CL//+/w/80N8N8NAAD/3wAAAA0AAAAAAAAADgAAAAAAAAAOAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Harry Potter"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAADgAAAAAAAADgAAAAAAAAAAAOAAAAAAAAABAAAAAAAAEAAPEAAAAQEQEA/w8AABEvEfD///8PEfERwf////8RETHBzPz//xHxEcH/////ES8R8P////8QEQEA///w/wABAADwAQD/AAAAAAABAPAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Voldemort"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
