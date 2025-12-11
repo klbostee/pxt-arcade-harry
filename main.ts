@@ -50,7 +50,7 @@ Harry_Potter = sprites.create(assets.image`Harry Potter`, SpriteKind.Player)
 controller.moveSprite(Harry_Potter)
 Harry_Potter.setFlag(SpriteFlag.StayInScreen, true)
 info.setLife(5)
-game.splash("READY?")
+game.showLongText("The Forbidden Forest awaits. Are you ready to face Voldemort?", DialogLayout.Bottom)
 game.onUpdateInterval(1000, function () {
     Voldemort = sprites.create(assets.image`Voldemort`, SpriteKind.Enemy)
     Voldemort.setPosition(160, randint(0, 120))
